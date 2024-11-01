@@ -1,0 +1,4 @@
+repository "UpOnly@yuta321555@cloud"
+  path "/"
+    br "/main"
+    co "/main"
